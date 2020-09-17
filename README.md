@@ -72,7 +72,7 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 ## Authors
 
-- Billie Thompson - __Initial work__ - Purple Booth
+- Billie Thompson - _Initial work_ - Purple Booth
 
 See also the list of contributors who participataed in this project.
 
