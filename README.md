@@ -1,10 +1,10 @@
 # Project Title
 
-##Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your loclal machine for development adn testin gpurposes. See deployment for notes on how to deploy the porject on a live system.
 
-###Prerequisites
+### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -14,7 +14,7 @@ Give examples
 
 '''
 
-###Installing
+### Installing
 
 A step by step series of examples that tell you how to get a developmetn env running
 
@@ -36,11 +36,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-##Running the tests
+## Running the tests
 
 Explain how to run the automated tests for this system
 
-###Break down into end to end tests
+### Break down into end to end tests
 
 Explain what these tests test and why
 
@@ -50,7 +50,7 @@ Give an example
 
 '''
 
-###And coding style tests
+### And coding style tests
 
 Explain what these tests test and why
 
